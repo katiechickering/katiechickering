@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Katie 👋
 
-<!--
-**katiechickering/katiechickering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Software Engineer with a passion for building mobile applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React Native, Expo
+- Node.js, Express
+- MongoDB
+- Tailwind / NativeWind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Featured Project
+### Track My Chores
+A full-stack mobile app for managing household chores with parent and child interfaces
+
+👉 [View Repository](https://github.com/DojoEngineers/chore-tracker)
+
+## 🌐 Connect with me
+- LinkedIn: https://www.linkedin.com/in/katiechickering/
+- YouTube: https://www.youtube.com/@katiechickering
