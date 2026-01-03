@@ -14,6 +14,8 @@ A full-stack mobile app for managing household chores with parent and child inte
 
 👉 [View Repository](https://github.com/DojoEngineers/chore-tracker)
 
+![Track My Chores Demo](demo.gif)
+
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/katiechickering/
 - YouTube: https://www.youtube.com/@katiechickering
