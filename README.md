@@ -1,8 +1,8 @@
 # Hi, I'm Katie 👋
 
-I’m a software engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React / React Native and JavaScript frameworks.
+I’m a Software Engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React / React Native and JavaScript frameworks.
 
-With a background in both the fitness and executive assistant industries, I have spent my career in roles centered on helping others succeed. These positions exposed me to a wide range of softwares and I realized I wanted to be the one building the systems I was using.
+My background in both fitness and executive support has always centered on helping others succeed. In these roles, I relied on a wide range of software tools and became increasingly interested in how those systems were built. This curiosity ultimately pushed me toward pursuing software engineering, where I can create my own solutions to help others.
 
 I graduated from Coding Dojo at Colorado Technical University in July 2025 with 3 full stacks under my belt. Since then, I’ve built many projects including a 30-page cross platform mobile application with 2 distinct interfaces to handle complex task management workflows. This project, built in an Agile team of 3 for a client, showcases my expertise in cross-functional collaboration and the technical skills required to deliver robust, feature-rich solutions. Check out the project below!
 
