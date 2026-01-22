@@ -1,12 +1,16 @@
 # Hi, I'm Katie 👋
 
-I'm a Front End Software Engineer with a passion for building mobile applications. As a recent graduate from the Coding Dojo program at Colorado Technical University, I am seeking opportunities to apply my skills and contribute to innovative projects.
+I’m a software engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React / React Native and JavaScript frameworks.
 
-## 🛠 Tech Stack
-- React Native, Expo
-- Node.js, Express
-- MongoDB
-- Tailwind / NativeWind
+With a background in both the fitness and executive assistant industries, I have spent my career in roles centered on helping others succeed. These positions exposed me to a wide range of softwares and I realized I wanted to be the one building the systems I was using.
+
+I graduated from Coding Dojo at Colorado Technical University in July 2025 with 3 full stacks under my belt. Since then, I’ve built many projects including a 30-page cross platform mobile application with 2 distinct interfaces to handle complex task management workflows. This project, built in an Agile team of 3 for a client, showcases my expertise in cross-functional collaboration and the technical skills required to deliver robust, feature-rich solutions. Check out the project in the link below!
+
+## 🛠 TECHNICAL SKILLS
+LANGUAGES: JavaScript, Python, Java, CSS, HTML, XML
+FRONT END: React Native, React, JSON, RESTful APIs, Tailwind, NativeWind, Bootstrap
+BACK END: Node.js, Express, Flask, AWS, OOP
+DATABASES: MongoDB, Mongoose, SQL (MySQL), SpringBoot
 
 ## 📱 Featured Project
 ### Track My Chores
