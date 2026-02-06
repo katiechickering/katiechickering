@@ -1,3 +1,6 @@
+## View Portfolio [HERE](https://my-portfolio-sage-zeta-21.vercel.app/) 🖥️
+
+
 # Hi, I'm Katie 👋
 
 I’m a Software Engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React / React Native and JavaScript frameworks.
@@ -24,5 +27,6 @@ A full-stack mobile app for managing household chores with parent and child inte
 ![Track My Chores Demo](demo.gif)
 
 ## 🌐 Connect with me
+- Portfolio: https://my-portfolio-sage-zeta-21.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/katiechickering/
 - YouTube: https://www.youtube.com/@katiechickering
