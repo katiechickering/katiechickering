@@ -1,4 +1,4 @@
-### View Portfolio [HERE](https://my-portfolio-sage-zeta-21.vercel.app/)  👀
+### View Portfolio [HERE](https://my-portfolio-sage-zeta-21.vercel.app/) 📱
 
 
 # Hi, I'm Katie 👋
