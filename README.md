@@ -12,7 +12,7 @@ I graduated from Coding Dojo at Colorado Technical University in July 2025 with 
 ## 🛠 Technical Skills
 LANGUAGES: JavaScript, Python, Java, CSS, HTML, JSX
 
-FRONT END: React Native, React, JSON, RESTful APIs, Tailwind, NativeWind, Bootstrap
+FRONT END: React Native, React, JSON, RESTful APIs, TailwindCSS, NativeWind, Bootstrap
 
 BACK END: Node.js, Express, Flask, AWS, OOP
 
