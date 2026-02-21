@@ -3,7 +3,7 @@
 
 # Hi, I'm Katie 👋
 
-I’m a Software Engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React / React Native and JavaScript frameworks.
+I’m a Software Engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React / React Native and TypeScript frameworks.
 
 My background in both fitness and executive support has always centered on helping others succeed. In these roles, I relied on a wide range of software tools and became increasingly interested in how those systems were built. This curiosity ultimately pushed me toward pursuing software engineering, where I can create my own solutions to help others.
 
