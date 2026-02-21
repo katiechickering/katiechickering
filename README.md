@@ -10,9 +10,9 @@ My background in both fitness and executive support has always centered on helpi
 I graduated from Coding Dojo at Colorado Technical University in July 2025 with 3 full stacks under my belt. Since then, I’ve built many projects including a cross platform mobile application with 2 distinct interfaces and dozens of screens to handle complex task management workflows. Built for a client alongside a backend engineer and a UI/UX designer, this project highlights my work as the front-end engineer. It showcases my technical expertise and my ability to deliver robust, feature-rich solutions through effective collaboration. Check out the project below!
 
 ## 🛠 Technical Skills
-**LANGUAGES:** JavaScript (ES6), HTML5, CSS3, Python, SQL, Java
+**LANGUAGES:** TypeScript, JavaScript (ES6), TSX, JSX, HTML5, CSS3, Python, SQL, Java
 
-**FRAMEWORKS & LIBRARIES**: React Native, Expo, React, Node.js, Express, Vite, NativeWind, TailwindCSS, Flask
+**FRAMEWORKS & LIBRARIES**: React Native, Expo, React, Next.js, Vite, Node.js, Express, NativeWind, TailwindCSS, Flask
 
 **DATABASES:** MongoDB, MySQL
 
