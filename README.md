@@ -12,11 +12,11 @@ I graduated from Coding Dojo at Colorado Technical University in July 2025 with 
 ## 🛠 Technical Skills
 **LANGUAGES:** TypeScript, JavaScript (ES6), TSX, JSX, HTML5, CSS3, Python, SQL, Java
 
-**FRAMEWORKS & LIBRARIES**: React Native, Expo, React, Next.js, Vite, NativeWind, TailwindCSS, Node.js, Express, Flask
+**FRAMEWORKS & LIBRARIES**: React Native, Expo, React, Next.js, Vite, NativeWind, TailwindCSS, Node.js, Express
 
 **DATABASES:** MongoDB, MySQL
 
-**CLOUD & TOOLS:** EAS Build, Xcode, Android Studio, Figma, Cloudflare R2, Render, Vercel, Git, GitHub, Postman, Jira
+**CLOUD & TOOLS:** EAS Build, Xcode, Android Studio, Figma, Vercel, Git, GitHub, Postman, Jira
 
 ## 📱 Featured Project
 ### Track My Chores
