@@ -16,7 +16,7 @@ I graduated from Coding Dojo at Colorado Technical University in July 2025 with 
 
 **DATABASES:** MongoDB, MySQL
 
-**CLOUD & TOOLS:** EAS Build, Xcode, Android Studio, Figma, Vercel, Git, GitHub, Postman, Jira
+**CLOUD & TOOLS:** GitHub Copilot, EAS Build, Xcode, Android Studio, Figma, Vercel, Git, GitHub, Postman, Jira
 
 ## 📱 Featured Project
 ### Track My Chores
