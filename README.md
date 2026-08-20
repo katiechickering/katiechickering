@@ -12,11 +12,13 @@ I graduated from Coding Dojo in July 2025 with three full stacks under my belt (
 I’m now looking to use my engineering background to bridge the gap between technical complexity and the people who use the software. Check out my projects below!
 
 ## 🛠 Technical Skills
-**LANGUAGES:** JavaScript | TypeScript | Python | SQL | Java | HTML5 | CSS3
+**APIs $ WEB TECHNOLOGIES:** REST APIs | JSON | HTTP | Postman | HTML5 | CSS3
 
-**FRAMEWORKS & TOOLS**: React Native | Expo | React | Next.js | Node.js | Express | MongoDB | MySQL
+**LANGUAGES:** JavaScript | TypeScript | Python | SQL | Java
 
-**SUPPORT & APIs:** REST APIs | JSON | HTTP | Postman | Salesforce | Jira | Mindbody CRM | Git/GitHub | Vercel
+**FRAMEWORKS & LIBRARIES:** React Native | Expo | React | Next.js | Node.js | Express
+
+**DATABASES & TOOLS:** MongoDB | MySQL | Git | GitHub | Jira | Salesforce | Vercel
 
 ## 📱 Featured Project
 ### Track My Chores
