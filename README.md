@@ -12,7 +12,7 @@ I graduated from Coding Dojo in July 2025 with three full stacks under my belt (
 I’m now looking to use my engineering background to bridge the gap between technical complexity and the people who use the software. Check out my projects below!
 
 ## 🛠 Technical Skills
-**APIs $ WEB TECHNOLOGIES:** REST APIs | JSON | HTTP | Postman | HTML5 | CSS3
+**APIs & WEB TECHNOLOGIES:** REST APIs | JSON | HTTP | Postman | HTML5 | CSS3
 
 **LANGUAGES:** JavaScript | TypeScript | Python | SQL | Java
 
