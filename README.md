@@ -14,7 +14,7 @@ I’m now looking to use my engineering background to bridge the gap between tec
 ## 🛠 Technical Skills
 **APIs & WEB TECHNOLOGIES:** REST APIs | JSON | HTTP | Postman | HTML5 | CSS3
 
-**LANGUAGES:** JavaScript | TypeScript | Python | SQL | Java
+**LANGUAGES:** TypeScript | JavaScript | Python | SQL | Java
 
 **FRAMEWORKS & LIBRARIES:** React Native | Expo | React | Next.js | Node.js | Express
 
