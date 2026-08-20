@@ -3,20 +3,20 @@
 
 # Hi, I'm Katie 👋
 
-I’m a Software Engineer who learned to code and never looked back! I specialize in front-end and mobile development, specifically with React Native / React and TypeScript frameworks.
+I’m an Engineer who thrives at the intersection of deep technical problem-solving and customer success. I specialize in front-end and mobile development, with a heavy focus on React Native, React and TypeScript.
 
-My background in both fitness and executive support has always centered on helping others succeed. In these roles, I relied on a wide range of software tools and became increasingly interested in how those systems were built. This curiosity ultimately pushed me toward pursuing software engineering, where I can create my own solutions to help others.
+My background in fitness and executive support has always been about helping others succeed. In those roles, I became the technical go-to for my teams, which sparked a curiosity about how software systems are built from the ground up. That curiosity led me to pursue a rigorous engineering foundation so I could solve the complex technical hurdles that standard support can’t reach.
 
-I graduated from Coding Dojo at Colorado Technical University in July 2025 with 3 full stacks under my belt using Python, JavaScript, and Java. Since then, I’ve built many projects including a cross platform mobile application with 2 distinct interfaces and dozens of screens to handle complex task management workflows. Built for a client alongside a backend engineer and a UI/UX designer, this project highlights my work as the front-end engineer. It showcases my technical expertise and my ability to deliver robust, feature-rich solutions through effective collaboration. Check out the project below!
+I graduated from Coding Dojo in July 2025 with three full stacks under my belt (Python, JavaScript, and Java). Since then, I’ve architected and launched a cross-platform mobile application featuring dozens of screens and complex workflows. Working alongside a back-end engineer and a UI/UX designer, I served as the front-end engineer triageing bugs, managing integrations, and collaborating across teams to deliver a feature-rich product.
+
+I’m now looking to use my engineering background to bridge the gap between technical complexity and the people who use the software. Check out my projects below!
 
 ## 🛠 Technical Skills
-**LANGUAGES:** TypeScript, JavaScript (ES6), TSX, JSX, HTML5, CSS3, Python, SQL, Java
+**LANGUAGES:** JavaScript | TypeScript | Python | SQL | Java | HTML5 | CSS3
 
-**FRAMEWORKS & LIBRARIES**: React Native, Expo, React, Next.js, Vite, NativeWind, TailwindCSS, Node.js, Express
+**FRAMEWORKS & TOOLS**: React Native | Expo | React | Next.js | Node.js | Express | MongoDB | MySQL
 
-**DATABASES:** MongoDB, MySQL
-
-**CLOUD & TOOLS:** GitHub Copilot, EAS Build, Xcode, Android Studio, Figma, Vercel, Git, GitHub, Postman, Jira
+**SUPPORT & APIs:** REST APIs | JSON | HTTP | Postman | Salesforce | Jira | Mindbody CRM | Git/GitHub | Vercel
 
 ## 📱 Featured Project
 ### Track My Chores
